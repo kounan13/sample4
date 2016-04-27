@@ -18,6 +18,7 @@ public class JavaSample4 {
         // TODO code application logic here
         System.out.println("sample");
         System.out.println("sample");
+        
     }
     
 }
