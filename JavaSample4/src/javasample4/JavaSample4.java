@@ -19,6 +19,8 @@ public class JavaSample4 {
         System.out.println("sample");
         System.out.println("sample");
         
+        
+        System.out.println("sample2");
     }
     
 }
